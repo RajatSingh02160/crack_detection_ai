@@ -18,6 +18,6 @@ An end-to-end Structural Health Monitoring tool that compares Traditional Comput
 3. View the neural network's "attention" map (PyTorch).
 
 ## 🏃 How to run locally
-1. Clone the repo: `git clone https://github.com/YOUR_USERNAME/crack-detection-ai.git`
+1. Clone the repo: `git clone https://github.com/RajatSingh02160/crack-detection-ai.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the app: `streamlit run app.py`
